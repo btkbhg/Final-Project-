@@ -35,4 +35,5 @@ Ubuntu Live Server 22.04.3
 # Update Progress
 
 18 Oktober 2023 Install Web Server
+
 13 Desember 2023 Merombak total dan mengisi web menggunakan HTML dan CSS
