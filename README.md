@@ -26,6 +26,7 @@ Ubuntu Live Server 22.04.3
 
 1.  File ISO Ubuntu Live Server 22.04.3
 2.  SSH server
+3.  Visual Studio Code (Di Windows)
 
 #  Service
 
